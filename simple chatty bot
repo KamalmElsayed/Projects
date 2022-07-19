@@ -40,7 +40,7 @@ function count() {
 function test() {
 	console.log("Let's test your programming knowledge.");
 
-	// write your code here
+	console.log("What's GitHub?");
 	while (Number(input()) != 2){
 		console.log(end());
 	}
